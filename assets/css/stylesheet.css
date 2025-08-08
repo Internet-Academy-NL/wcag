@@ -132,6 +132,10 @@ details {
     padding: 1em;
 }
 
+.index li ul {
+    margin-bottom: 1.5em;
+}
+
 /* Text meant only for screen readers. */
 .screen-reader-text {
     border: 0;

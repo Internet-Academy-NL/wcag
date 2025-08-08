@@ -1,11 +1,15 @@
 # Lesmateriaal cursus WCAG in de praktijk
 
-Onderhouden door 
-- Jaap van de Putte
+Onderhouden door: 
+
 - Janita Top
 - Rian Rietveld
 
-Copyright 2025 [The Internet Academy](https://www.internetacademy.nl/).
+Bijbehorende GitHub-pages: 
+[rianrietveld.github.io/widp/](https://rianrietveld.github.io/widp/index.html).
+
+Deze repository is private, maar de GitHub-pages zijn openbaar.
+
 
 ## Opzet
 De bestanden zijn in HTML geschreven.  Het bestand `index.html` in de hoofddirectory bevat het overzicht van alle links, de hoofdinhoud.  
