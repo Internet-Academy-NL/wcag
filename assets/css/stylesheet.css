@@ -61,10 +61,6 @@ img {
     max-width: 10em;
 }
 
-a {
-    color: #333333;
-}
-
 a:hover,
 a:focus {
     text-decoration: none;
