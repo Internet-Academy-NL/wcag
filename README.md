@@ -7,7 +7,7 @@ Onderhouden door:
 - Jaap van de Putte
 
 Bijbehorende GitHub-pages: 
-[rianrietveld.github.io/widp/](https://rianrietveld.github.io/widp/index.html).
+[internet-academy-nl.github.io/wcag/](https://internet-academy-nl.github.io/wcag/)
 
 Deze repository is private, maar de GitHub-pages zijn openbaar.
 
