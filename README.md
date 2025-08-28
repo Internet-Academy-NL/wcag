@@ -26,13 +26,15 @@ Indeling:
 - `/beeld-geluid/`  Beeld en geluid
 - `/a11yhell/`  A11y Hell
 - `/formulieren/` Formulieren
-
+- `/governance/` WCAG in jouw organisatie
+- 
 De index.html van directory van een onderwerp bevat links naar de te behandelen lesstof en democode.
 
 
 ## Onderverdeling van de WCAG-succescriteria over de verschillende onderwerpen
 
-### Toetsenbord en andere soorten van bediening:
+### Toetsenbord en andere soorten van bediening
+
 - 1.4.13 Content bij hover of focus
 - 2.1.1 Toetsenbord
 - 2.1.2 Geen toetsenbordval
@@ -47,7 +49,8 @@ De index.html van directory van een onderwerp bevat links naar de te behandelen 
 - 2.5.4 Bewegingsactivering
 - 2.5.7 Sleepbewegingen
 
-### Design, visuele weergave:
+### Design, visuele weergave
+
 - 1.1.1 Niet-tekstuele content
 - 1.3.3 Zintuiglijke eigenschappen
 - 1.3.4 Weergavestand
@@ -107,26 +110,34 @@ De index.html van directory van een onderwerp bevat links naar de te behandelen 
   - 1.3.5 Identificeer het doel van de input
   - 2.2.1 Timing aanpasbaar
   - 3.3.5 Hulp
+  - 3.3.7 Overbodige invoer
   - 3.3.8 Toegankelijke authenticatie (minimum)
 - Zorg dat iedereen dezelfde informatie heeft
   - 2.5.3 Label in Naam (herhaling)
   - 3.3.2 Labels of instructies
+  - 4.1.2 Naam, rol, waarde (herhaling)
+  - 4.1.3 Statusberichten (herhaling)
 - Foutafhandeling
   - 3.3.1 Foutidentificatie
   - 3.3.3 Foutsuggestie
   - 3.3.4 Foutpreventie (wettelijk, financieel, gegevens)
 - Wat niet te doen
+  - 2.1.1 Toetsenbord (herhaling)
   - 3.2.1 Bij focus
   - 3.2.2 Bij input
-  - 3.3.7 Overbodige invoer
 
 ### Accessibility in jouw organisatie
+
 - Governance en mandaat
 - Hoe is dit in juw organisatie geregeld?
 
-### Afsluitend
+### Eindopdracht
+
 - Audit op een website
-- Vragen
+
+### Vragen
+
+Open in te vullen
 
 ## Toevoegen inhoud
 
