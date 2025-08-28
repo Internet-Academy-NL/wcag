@@ -1,7 +1,7 @@
 body {
     background: #ffffff;
     color: #333333;
-    font-family: "Open Sans", sans-serif;
+    font-family: system-ui, -apple-system, blinkmacsystemfont, "Segoe UI", roboto, "Helvetica Neue", arial, sans-serif, "Segoe UI Emoji";
     font-size: 1.2em;
     line-height: 1.5;
     margin: 2em auto;
